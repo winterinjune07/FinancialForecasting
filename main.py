@@ -1,0 +1,3 @@
+import Components.RecurringBillsInputs as RecurringBillsInputs
+
+RecurringBillsInputs.main()
