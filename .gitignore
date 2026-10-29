@@ -1,3 +1,7 @@
 .env
 .venv
 .directory
+/data/bills.csv
+/data/calendar.csv
+/data/output-data.csv
+/data/pay_periods.csv
